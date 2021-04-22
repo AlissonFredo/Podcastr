@@ -1,14 +1,14 @@
 <h1 align="center">Podcastr</h1>
 <h2>&#x1F4D2; Sobre:</h2>
 <p>O Podcastr é uma aplicação web contendo um único podcast onde o usuário vai poder acompanhar os últimos lançamentos do Podcastr, ouvir os episódios do Podcastr e ver detalhes sobre os episódios do Podcastr.</p>
-<p>O Podcastr é uma aplicação web que foi desenvolvida no evento Next Level Week 05. Este evento é realizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> com objetivo de ajudar devs a avançar para o próximo nivel.</p>
+<p>O Podcastr é uma aplicação web que foi desenvolvida na trilha de ReactJs no evento da Next Level Week 05. Este evento é realizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> com objetivo de ajudar devs a avançar para o próximo nivel.</p>
 <br>
 <h2 align="center">&#x1F6A7 Podcastr em construção &#x1F6A7</h2>
 <br>
 <h2>&#x1F6E0 Tecnologias:</h2>
 <p align="justify">As seguintes ferramentas foram usadas na construção de Podcastr:</p>
 <ul>
-    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript">JavaScript</a></li>
+    <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
     <li><a href="https://reactjs.org/">React</a></li>
     <li><a href="https://nodejs.org/en/about/">Node</a></li>
     <li><a href="https://yarnpkg.com/">Yarn</a></li>
